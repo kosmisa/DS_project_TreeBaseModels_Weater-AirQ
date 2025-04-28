@@ -1,4 +1,4 @@
-# DS_project_Weater-AirQML_Engineering_HW/
+# DS_project_Weater-Air
 ```bash
 │──data/                  # Data directory (populated from google drive)
 │──notebooks/
