@@ -8,6 +8,5 @@
 ```
 
 ## Licences
-```bash
+
 This project is for educational purpose only.
-```
